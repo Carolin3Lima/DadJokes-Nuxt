@@ -1,20 +1,20 @@
-# dadjokes
+# Dad Jokes - Nuxt
+This is a Nuxt JS application who includes a dad joke's api to search by word or phrase.
 
-## Build Setup
+## Features
+- Vue.js
+- Node.js
+- Nuxt.js
 
-```bash
-# install dependencies
-$ npm install
+## Usage 
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### Start
+- Clone this repo to your desktop and run npm install to install all the dependencies.
+- Once the dependencies are installed, you can run npm run dev to start the application. You will then be able to access it at localhost:3000
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+### Build for production and launch server
+- npm run build
+- npm run start
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### Generate static project
+- npm run generate
