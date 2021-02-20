@@ -1,6 +1,8 @@
 # Dad Jokes - Nuxt
 This is a Nuxt JS application who includes a dad joke's api to search by word or phrase.
 
+![localhost img](https://github.com/LimaCarol/DadJokes-Nuxt/raw/master/assets/localhost.png)
+
 ## Features
 - Vue.js
 - Node.js
